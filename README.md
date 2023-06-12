@@ -1,4 +1,4 @@
-# Login Page S!
+# Login Page
 
 Sistema de login com exibição de usuarios cadastrados.
 
